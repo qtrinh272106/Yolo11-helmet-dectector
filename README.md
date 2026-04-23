@@ -67,10 +67,9 @@ pip install -r requirements.txt
 ```
 
 ### 3. Chạy ứng dụng
-
+```
 cd yolo-helmet-detector-main
 python -m streamlit run app.py
-```
 
 ## Ứng dụng thực tế
 
